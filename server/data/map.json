@@ -1,0 +1,12 @@
+{
+    "size": [20, 20],
+    "gridDivision": 2,
+    "objects": [
+        {
+            "objectFile": "tree1",
+            "name": "Tree 1",
+            "position": [1, 0, 1],
+            "rotation": [0, 45, 0]
+        }
+    ]
+}

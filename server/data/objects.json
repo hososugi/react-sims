@@ -1,0 +1,10 @@
+{
+    "tree1": {
+        "objectFile": "Tree1",
+        "name": "Tree 0",
+        "size": {
+            "width": 10,
+            "height": 10
+        }
+    }
+}
